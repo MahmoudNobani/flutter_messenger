@@ -1,5 +1,5 @@
 # flutter_messenger_app
-flutter messenger app
+flutter messenger app using firebase
 
 demos:
 
