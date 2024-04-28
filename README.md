@@ -1,4 +1,4 @@
-# flutter_MusicPlayer
+# flutter_messenger_app
 flutter messenger app
 
 demos:
